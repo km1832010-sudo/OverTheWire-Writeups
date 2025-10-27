@@ -1,4 +1,4 @@
-\# OVERTHEWIRE-BANDIT1->2:
+# OVERTHEWIRE-BANDIT1->2:
 
 
 
@@ -18,7 +18,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-\#### Prerequisites:
+#### Prerequisites:
 
 
 
@@ -26,7 +26,7 @@ Understanding of a literal file path: let's say you have a filename with a space
 
 
 
-\#### Solving the level: 
+#### Solving the level: 
 
 
 
@@ -34,7 +34,7 @@ After logging in, let us do an ls -la
 
 
 
-!\[Image couldn't load](images/Screenshot-Bandit1-0.png)
+![Image couldn't load](images/Screenshot-Bandit1-0.png)
 
 
 
@@ -48,7 +48,7 @@ As the website said, the is a file named - with the password we want, let us try
 
 
 
-!\[Image couldn't load](images/Screenshot-Bandit1-1.png)
+![Image couldn't load](images/Screenshot-Bandit1-1.png)
 
 
 
@@ -62,9 +62,9 @@ Now run cat ./- and you should get the password
 
 
 
-Previous level: \[Bandit0->1](../Bandit0-1/writeup.md.md)
+Previous level: [Bandit0->1](../Bandit0-1/writeup.md.md)
 
 
 
-Next Level: \[Bandit2->3](../Bandit2/writeup.md.md)
+Next Level: [Bandit2->3](../Bandit2/writeup.md.md)
 

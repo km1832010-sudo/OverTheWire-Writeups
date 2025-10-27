@@ -26,7 +26,7 @@ The website tells us that there is a file called readme with the password inside
 
 
 
-!\[Image couldn't load](images/Screenshot-Bandit0-1-0.png)
+![Image couldn't load](images/Screenshot-Bandit0-1-0.png)
 
 
 
@@ -34,7 +34,7 @@ Now we can cat the readme file.
 
 
 
-!\[Image couldn't load](images/Screenshot-Bandit0-1-1.png)
+![Image couldn't load](images/Screenshot-Bandit0-1-1.png)
 
 
 
