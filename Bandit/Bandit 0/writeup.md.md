@@ -69,5 +69,7 @@ Open the Ubuntu shell and run the command: *ssh bandit0@bandit.labs.overthewire.
 
 afterwards it will ask you for a password, enter the password from the website
 
+Side Note: I have hidden my username so only ~$ will appear before the command on my screen, it's fine if your username appears.
+
 ![Image couldn't load](images/Screenshot-bandit0-1.png)
 
