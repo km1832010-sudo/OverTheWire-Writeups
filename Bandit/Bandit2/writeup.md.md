@@ -1,4 +1,4 @@
-\# OVERTHEWIRE-BANDIT2->3:
+# OVERTHEWIRE-BANDIT2->3:
 
 
 
@@ -26,7 +26,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-\#### Prerequisites:
+#### Prerequisites:
 
 
 
@@ -34,7 +34,7 @@ literal paths: if you have a space in a path, it will be registered as two separ
 
 
 
-\#### Solving the level: 
+#### Solving the level: 
 
 
 
@@ -48,7 +48,7 @@ Let's log in and use ls -la to find the file. I will try using cat with ./ becau
 
 
 
-!\[Image couldn't load](images/Screenshot-bandit2-1.png)
+![Image couldn't load](images/Screenshot-bandit2-1.png)
 
 
 
@@ -64,7 +64,7 @@ It registered as many separate files because of the space, and it couldn't find 
 
 
 
-Previous level: \[Bandit1->2](../Bandit1/writeup.md.md)
+Previous level: [Bandit1->2](../Bandit1/writeup.md.md)
 
 
 
@@ -72,7 +72,7 @@ Previous level: \[Bandit1->2](../Bandit1/writeup.md.md)
 
 
 
-Next Level: \[Bandit3->4](../Bandit3/writeup.md.md)
+Next Level: [Bandit3->4](../Bandit3/writeup.md.md)
 
 
 
