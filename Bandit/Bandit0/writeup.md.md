@@ -77,5 +77,5 @@ Side Note: I have hidden my username so only ~$ will appear before the command o
 
 
 
-Next Level: [Bandit0->1](/bandit0-1/writeup.md.md)
+Next Level: [Bandit0->1](/bandit/bandit0-1/writeup.md.md)
 
