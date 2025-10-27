@@ -39,7 +39,7 @@ Now we can cat the readme file.
 
 Make sure to save the password in your notes app or anywhere else so that you don't lose your progress!
 
-Next Level: [Bandit1->2](Bandit/Bandit1/writeup.md.md)
+Next Level: [Bandit1->2](../Bandit1/writeup.md.md)
 
 
 
