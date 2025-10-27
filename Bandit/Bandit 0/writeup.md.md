@@ -22,7 +22,7 @@ For OverTheWire you will need to know how to specify the port, do that by adding
 
 
 
-**WSL/VM/Ubuntu/Linux:** To run Linux you will need either a WSL, VM, or Linux operating system. Bellow are explanations of their differences and links to videos highlighting how to install them. It is normal if you encounter many problems while trying to install. If you do encounter one I recommend consulting ChatGpt, but definitely try to solve the problem as it will get you more acquainted with errors and bugs that could occur in any system.
+**WSL/VM/Ubuntu/Linux:** To run Linux you will need either a WSL, VM, or Linux operating system. Bellow are explanations of their differences and links to videos highlighting how to install them. It is normal if you encounter many problems while trying to install. If you do encounter one I recommend consulting ChatGpt, but definitely try to solve the problem as it will get you more acquainted with errors and bugs that could occur in any system. If at any point you try to run a command using one of these but it doesn't work also ask Chatgpt you may need to install a package(group of commands).
 
 
 
@@ -30,7 +30,8 @@ WSL: Abbreviation of Windows Subsystem for Linux, it allows you to run the Linux
 
 
 
-WSL link:
+WSL link: [click here](https://www.youtube.com/watch?v=wz0QBNy9i7w)
+(you only need to watch up until about 2 mins)
 
 
 
@@ -38,7 +39,7 @@ VM: A VM is short for Virtual Machine. It simulates the Linux operating system a
 
 
 
-VM link:
+VM link:  [click here](https://www.youtube.com/watch?v=YjG1yG2l9v0)
 
 
 
@@ -50,15 +51,15 @@ Ubuntu: As I mentioned just go to the Microsoft store :).
 
 
 
-Linux: The Linux operating system is what allows us to use bash script to solve bandit and all other OverTheWire wargames. I would heavily advise against uninstalling windows to install Linux, but you could also choose to dual-boot, although I still don't recommend doing this until you have a good grasp of what you can do with Linux.
+Linux: The Linux operating system is what allows us to use bash script to solve bandit and all other OverTheWire wargames. I would heavily advise against uninstalling windows to install Linux, but you could also choose to dual-boot, although I still don't recommend doing this until you have a good grasp of what you can do with Linux. You may find the tutorials confusing; if you do, you probably don't have enough experience and should just stick to one of the other methods.
 
 
 
-Installing Linux OS:
+Installing Linux OS: [click here](https://www.youtube.com/watch?v=n8vmXvoVjZw&t=732s)
 
 
 
-Installing Linux OS to Dual-Boot:
+Installing Linux OS to Dual-Boot: [click here](https://www.youtube.com/watch?v=CWQMYN12QD0)
 
 
 
@@ -68,4 +69,5 @@ Open the Ubuntu shell and run the command: *ssh bandit0@bandit.labs.overthewire.
 
 afterwards it will ask you for a password, enter the password from the website
 
-![Image couldn't load](images/Screenshot-bandit0-1.png)
+!\[Image couldn't load](images/Screenshot-bandit0-1.png)
+
