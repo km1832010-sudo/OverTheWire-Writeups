@@ -63,11 +63,11 @@ Installing Linux OS to Dual-Boot: [click here](https://www.youtube.com/watch?v=C
 
 
 
-##### Solving the level:
+#### Solving the level:
 
 Open the Ubuntu shell and run the command: *ssh bandit0@bandit.labs.overthewire.org -p 2220*
 
 afterwards it will ask you for a password, enter the password from the website
 
-!\[Image couldn't load](images/Screenshot-bandit0-1.png)
+![Image couldn't load](images/Screenshot-bandit0-1.png)
 
