@@ -174,7 +174,7 @@ The message is unintelligible because it is mainly in machine code. In a small s
 
 
 
-Previous level: [Bandit2->3](../Bandit2/writeup.md.md)
+Previous level: [Bandit3->4](../Bandit3/writeup.md.md)
 
 
 
@@ -206,7 +206,7 @@ Previous level: [Bandit2->3](../Bandit2/writeup.md.md)
 
 
 
-Next Level: [Bandit4->5](../Bandit4/writeup.md.md)
+Next Level: [Bandit5->6](../Bandit5/writeup.md.md)
 
 
 

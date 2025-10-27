@@ -56,7 +56,7 @@ As the website said, the is a file named - with the password we want, let us try
 
 
 
-Now run *cat ./-* and you should get the password
+Now run **cat ./-** and you should get the password
 
 
 
