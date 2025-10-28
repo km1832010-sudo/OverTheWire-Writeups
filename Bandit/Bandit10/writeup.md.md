@@ -38,7 +38,7 @@ Base64 knowledge: Base64 is an alphabet with 64 values and is often used to enco
 
 
 
-![Image couldn't load](images/Screenshot-Bandit10-2.png)
+![Image couldn't load](images/Screenshot-Bandit10-1.png)
 
 
 
