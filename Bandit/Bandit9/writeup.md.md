@@ -24,7 +24,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-grep -a flag: this flag allows 
+grep -a flag: this flag allows grep to be used on binary files(machine code files)
 
 
 
@@ -32,7 +32,7 @@ grep -a flag: this flag allows
 
 
 
-simply use grep with the dash followed by "several" equal signs, let's just put any number, say 4
+simply use grep with the dash followed by "several" equal signs. Let's just put any number, say 4
 
 
 
