@@ -118,7 +118,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-Optional: reset command: resets your terminal and makes it neat
+Optional: **reset command**: resets your terminal and makes it neat
 
 
 

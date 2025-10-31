@@ -34,7 +34,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-uniq command: filters out repeated lines in a file if they are adjacent
+**uniq command**: filters out repeated lines in a file if they are adjacent
 
 
 
@@ -46,11 +46,11 @@ syntax - uniq (flag) filename
 
 
 
-sort command: sorts by alphabetical order
+**sort command**: sorts by alphabetical order
 
 
 
-Piping: linking the output of one command to another, this technique can take some time to get used to. Basically, let's say I want to sort a file, then grep it(this is an unrealistic example, but that's fine), I could either make a file and save the output of the sort to it, or I could simply use piping. The syntax is simply using the | operator, so for the previous example, you would do **sort targetfile | grep targetword** (the pipe works only on the output, so you do not need to reference the same file twice)
+**Piping**: linking the output of one command to another, this technique can take some time to get used to. Basically, let's say I want to sort a file, then grep it(this is an unrealistic example, but that's fine), I could either make a file and save the output of the sort to it, or I could simply use piping. The syntax is simply using the | operator, so for the previous example, you would do **sort targetfile | grep targetword** (the pipe works only on the output, so you do not need to reference the same file twice)
 
 
 

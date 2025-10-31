@@ -26,7 +26,7 @@ For OverTheWire, you will need to know how to specify the port. To do that, add 
 
 
 
-WSL: Abbreviation of Windows Subsystem for Linux, which allows you to run the Linux terminal in your own terminal and access your own Windows files, although that does require slightly different syntax. Thankfully, you won't have to worry about that until OverTheWire Leviathan. I would recommend installing Ubuntu as it's the most beginner-friendly Linux system.
+**WSL**: Abbreviation of Windows Subsystem for Linux, which allows you to run the Linux terminal in your own terminal and access your own Windows files, although that does require slightly different syntax. Thankfully, you won't have to worry about that until OverTheWire Leviathan. I would recommend installing Ubuntu as it's the most beginner-friendly Linux system.
 
 
 
@@ -35,7 +35,7 @@ WSL link: [click here](https://www.youtube.com/watch?v=wz0QBNy9i7w)
 
 
 
-VM: A VM is short for Virtual Machine. It simulates the Linux operating system and requires you to allocate resources to it. It can be quite inconvenient to use a VM for Bandit, although I would recommend it for Leviathan later. The freedom a VM provides isn't really beginner-friendly, but it can be nice to try it out. I would recommend installing Ubuntu along with the VM as the OS of choice.
+**VM**: A VM is short for Virtual Machine. It simulates the Linux operating system and requires you to allocate resources to it. It can be quite inconvenient to use a VM for Bandit, although I would recommend it for Leviathan later. The freedom a VM provides isn't really beginner-friendly, but it can be nice to try it out. I would recommend installing Ubuntu along with the VM as the OS of choice.
 
 
 
@@ -43,7 +43,7 @@ VM link:  [click here](https://www.youtube.com/watch?v=YjG1yG2l9v0)
 
 
 
-Ubuntu: Ubuntu is a type of Linux system that is very beginner-friendly and easy to use. It can even be installed in the Microsoft Store, and so this method is the simplest and fastest way to start Bandit. I recommend this, and I will personally be using it while doing Bandit.
+**Ubuntu**: Ubuntu is a type of Linux system that is very beginner-friendly and easy to use. It can even be installed in the Microsoft Store, and so this method is the simplest and fastest way to start Bandit. I recommend this, and I will personally be using it while doing Bandit.
 
 
 
@@ -51,7 +51,7 @@ Ubuntu: As I mentioned, just go to the Microsoft store :).
 
 
 
-Linux: The Linux operating system is what allows us to use a bash script to solve Bandit and all other OverTheWire wargames. I would heavily advise against uninstalling Windows to install Linux, but you could also choose to dual-boot, although I still don't recommend doing this until you have a good grasp of what you can do with Linux. You may find the tutorials confusing; if you do, you probably don't have enough experience and should just stick to one of the other methods.
+**Linux**: The Linux operating system is what allows us to use a bash script to solve Bandit and all other OverTheWire wargames. I would heavily advise against uninstalling Windows to install Linux, but you could also choose to dual-boot, although I still don't recommend doing this until you have a good grasp of what you can do with Linux. You may find the tutorials confusing; if you do, you probably don't have enough experience and should just stick to one of the other methods.
 
 
 

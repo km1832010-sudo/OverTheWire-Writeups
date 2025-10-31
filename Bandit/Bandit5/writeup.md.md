@@ -38,7 +38,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-find command: The find command allows you to find a file or directory, and its flags make it find a file based on different attributes.
+**find command**: The find command allows you to find a file or directory, and its flags make it find a file based on different attributes.
 
 
 

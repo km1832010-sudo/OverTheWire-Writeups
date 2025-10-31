@@ -38,7 +38,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-find flags: [website](https://man7.org/linux/man-pages/man1/find.1.html)
+**find flags**: [website](https://man7.org/linux/man-pages/man1/find.1.html)
 
 
 
@@ -50,7 +50,7 @@ find flags: [website](https://man7.org/linux/man-pages/man1/find.1.html)
 
 
 
-/: refers to the root directory in Linux.
+**/**: refers to the root directory in Linux.
 
 
 

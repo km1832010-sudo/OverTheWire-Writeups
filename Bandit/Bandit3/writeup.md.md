@@ -58,7 +58,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-cd command: The cd command stands for change directory, which allows you to change your directory. Its syntax is cd directoryName.
+**cd command**: The cd command stands for change directory, which allows you to change your directory. Its syntax is cd directoryName.
 
 
 

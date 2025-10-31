@@ -22,7 +22,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-Understanding of a literal file path: let's say you have a filename with a space or a filename that starts with an unusual character, you should add a dot-slash (./) to make it literal. The dot points to the current directory, and the / indicates it is pointing to the location followed by it in the current directory.
+**Understanding of a literal file path**: let's say you have a filename with a space or a filename that starts with an unusual character, you should add a dot-slash (./) to make it literal. The dot points to the current directory, and the / indicates it is pointing to the location followed by it in the current directory.
 
 
 

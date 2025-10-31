@@ -30,7 +30,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-literal paths: if you have a space in a path, it will be registered as two separate paths. To solve this, use double quotations ("") to surround the path.
+**literal paths**: if you have a space in a path, it will be registered as two separate paths. To solve this, use double quotations ("") to surround the path.
 
 
 

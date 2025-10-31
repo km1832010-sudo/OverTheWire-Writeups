@@ -24,7 +24,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-grep -a flag: this flag allows grep to be used on binary files(machine code files)
+**grep -a flag**: this flag allows grep to be used on binary files(machine code files)
 
 
 

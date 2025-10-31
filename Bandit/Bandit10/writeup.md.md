@@ -32,7 +32,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-Base64 knowledge: Base64 is an alphabet with 64 values and is often used to encode info. The alphabet is down below:
+**Base64 knowledge**: Base64 is an alphabet with 64 values and is often used to encode info. The alphabet is down below:
 
 
 

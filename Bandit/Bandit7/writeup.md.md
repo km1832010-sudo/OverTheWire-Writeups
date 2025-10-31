@@ -34,7 +34,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-grep command: used to search for specific words or "patterns".
+**grep command**: used to search for specific words or "patterns".
 
 syntax - grep pattern filename 
 

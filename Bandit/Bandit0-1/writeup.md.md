@@ -12,9 +12,9 @@ password: <Redacted>(obtain it from the website)
 
 #### Prerequisites:
 
-ls command: ls stands for list, and what it does is list all files and directories in the current directory(think of a directory as a folder). Commonly, it is used with both the -l and -a flags. The -l allows you to see some of the details of the files, and -a allows you to see hidden files and directories(they start with a "."). The syntax for adding these two flags is simply -la.
+**ls command**: ls stands for list, and what it does is list all files and directories in the current directory(think of a directory as a folder). Commonly, it is used with both the -l and -a flags. The -l allows you to see some of the details of the files, and -a allows you to see hidden files and directories(they start with a "."). The syntax for adding these two flags is simply -la.
 
-cat command: The cat command prints the content of a file or files. Its syntax is cat followed by the file name/address.
+**cat command**: The cat command prints the content of a file or files. Its syntax is cat followed by the file name/address.
 
 
 
