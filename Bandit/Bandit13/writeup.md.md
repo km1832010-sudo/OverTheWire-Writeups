@@ -61,7 +61,7 @@ I would not waste much time on this level if you can't solve it, because you mos
 
 
 
-\#### Solving the level: 
+#### Solving the level: 
 
 
 
