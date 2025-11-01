@@ -1,4 +1,4 @@
-\# OVERTHEWIRE-BANDIT17->18:
+# OVERTHEWIRE-BANDIT17->18:
 
 
 
@@ -28,7 +28,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-\#### Prerequisites:
+#### Prerequisites:
 
 
 
@@ -40,7 +40,7 @@ the output for each line would be what the line was in file1, then what it was i
 
 
 
-\#### Solving the level: 
+#### Solving the level: 
 
 
 
@@ -48,7 +48,7 @@ use the diff command:
 
 
 
-!\[Image couldn't load](images/Screenshot-Bandit17-1.png)
+![Image couldn't load](images/Screenshot-Bandit17-1.png)
 
 
 
@@ -56,7 +56,7 @@ use the diff command:
 
 
 
-Previous level: \[Bandit16->17](../Bandit16/writeup.md.md)
+Previous level: [Bandit16->17](../Bandit16/writeup.md.md)
 
 
 
@@ -64,5 +64,5 @@ Previous level: \[Bandit16->17](../Bandit16/writeup.md.md)
 
 
 
-Next Level: \[Bandit18->19](../Bandit18/writeup.md.md)
+Next Level: [Bandit18->19](../Bandit18/writeup.md.md)
 
