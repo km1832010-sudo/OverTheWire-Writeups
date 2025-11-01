@@ -34,7 +34,7 @@ password: <Redacted>(obtain it from previous level)
 
 **nc -l flag**: This flag allows you to listen to a port; you do not need to specify localhost for this, it will automatically connect to all local networks. All you need to do is specify which number for the ports. Optional: If you want to specify a port, you need to use the -s flag. Syntax- nc -l portnumber
 
-** & operator**: this operator allows you to have a command run in the background
+** & operator**: This operator allows you to have a command run in the background. Syntax- command &
 
 
 
@@ -48,7 +48,7 @@ This level has complicated syntax and might be confusing.
 
 #### Solving the level:
 
-To start from the level description, it seems we need to have the password in the nc connection and have to listen to the ./suconnect when we do it, so we start off with this command. This has to be done on the same of any arbitrary numbered port. We can do this with an echo pipe.
+To start from the level description, it seems we need to have the password in the nc connection and have to listen to the ./suconnect when we do it, so we start off with this command. This has to be done on the same of any arbitrary numbered port. We can do this with an echo pipe. We also need this process to run in the background
 
 
 
