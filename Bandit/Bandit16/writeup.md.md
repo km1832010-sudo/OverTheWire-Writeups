@@ -65,7 +65,7 @@ Ok, so now we can look at the services given by the ports. Echo services mean th
 ![Image couldn't load](images/Screenshot-Bandit16-2.png)
 
 
-Now we can do the same steps we did in bandit14, we can copy the RSA key into a file on our own machine, chmod it to 600, connect to bandit17, and then cat /etc/bandit_pass/bandit17.
+Now we can do the same steps we did in bandit13->14, we can copy the RSA key into a file on our own machine, chmod it to 600, connect to bandit17, and then cat /etc/bandit_pass/bandit17.
 
 
 Previous level: [Bandit15->16](../Bandit15/writeup.md.md)
