@@ -55,17 +55,17 @@ Let us try logging into the level. At the end of the login, we can see that we g
 Let us see the other shells on our system that we can log in to.
 
 
-![Image couldn't load](images/Screenshot-Bandit18-2.png)
+![Image couldn't load](images/Screenshot-Bandit18-3.png)
 
 Now, let us use that with the -t flag to log in to the terminal.
 
-![Image couldn't load](images/Screenshot-Bandit18-3.png)
+![Image couldn't load](images/Screenshot-Bandit18-4.png)
 
 #### Non-intentionally solving the level:
 
 Let us fork the server and use the -f flag with ssh.
 
-![Image couldn't load](images/Screenshot-Bandit18-4.png)
+![Image couldn't load](images/Screenshot-Bandit18-2.png)
 
 Previous level: [Bandit17->18](../Bandit17/writeup.md.md)
 
