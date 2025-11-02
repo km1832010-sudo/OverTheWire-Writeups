@@ -52,7 +52,7 @@ We can see that at reboot, the program sends a .sh file to /dev/null/, let's see
 
 ![Image couldn't load](images/Screenshot-Bandit21-1.png)
 
-we can see that it cats the password for the next level and send it to a file in the /tmp directory. We can cat that file with the fill path for the password
+we can see that it cats the password for the next level and send it to a file in the /tmp directory. We can cat that file with the full path for the password
 
 
 Previous level: [Bandit20->21](../Bandit20/writeup.md.md)
@@ -63,5 +63,5 @@ Previous level: [Bandit20->21](../Bandit20/writeup.md.md)
 
 
 
-Next Level: [Bandit22-23>](../Bandit22/writeup.md.md)
+Next Level: [Bandit22->23](../Bandit22/writeup.md.md)
 
