@@ -40,7 +40,7 @@ password: <Redacted>(obtain it from previous level)
 
 **cut -f flag**: this flag is set with either 1 or 2, and it determines one of two fields. The 1 field makes it take everything before the delimiter, while the 2 field makes it take everything after.
 
-**$ operator**: This operator allows you to access a previously declared variable. Syntax- $varaibleName
+**$ operator**: This operator allows you to access a previously declared variable. Syntax- $variableName
 
 #### Solving the level: 
 
@@ -74,7 +74,7 @@ You can also cat the password for bandit24 in this level. This is probably a "re
 
 
 
-Previous level: [Bandit23->24](../Bandit23/writeup.md.md)
+Previous level: [Bandit21->22](../Bandit21/writeup.md.md)
 
 
 
@@ -82,5 +82,5 @@ Previous level: [Bandit23->24](../Bandit23/writeup.md.md)
 
 
 
-Next Level: [Bandit21->22](../Bandit21/writeup.md.md)
+Next Level: [Bandit23->24](../Bandit23/writeup.md.md)
 
