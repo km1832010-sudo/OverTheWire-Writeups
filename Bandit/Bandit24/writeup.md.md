@@ -38,7 +38,7 @@ Now we just have to chmod and run the file and we will get the password at the e
 ![Image couldn't load](images/Screenshot-Bandit24-3.png)
 
 
-Previous level: [Bandit23-24>](../Bandit23/writeup.md.md)
+Previous level: [Bandit23->24](../Bandit23/writeup.md.md)
 
 
 
