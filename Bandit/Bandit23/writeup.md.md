@@ -70,7 +70,7 @@ Ok, this script is pretty long, let's read it line by line:
 
 6: do
 
-7: if the file is not equal to . (this directory) and not equal to .. (the previous directory) 
+7: if the file is not equal to . (this directory) and not equal to .. (the previous directory)
 
 8: then
 
@@ -90,7 +90,7 @@ Ok, this script is pretty long, let's read it line by line:
 
 16: closing the loop
 
-So, what we can use is that this script executes any file we put in here with the user bandit24. We can use this to get the script to cat the bandit24 pass to a file. If we just let it cat it, it will be visible to user bandit24, but not to our user bandit23. Let us make a temporary directory to make a script using nano. Make sure to add .sh to the end of the nano file.
+So, what we can use is that this script executes any file we put in here with the user bandit24. We can use this to get the script to cat the bandit24 pass to a file. If we just let it cat it, it will be visible to user bandit24, but not to our user bandit23, so we need to cat it to a file. Let us make a temporary directory to make a script using nano. Make sure to add .sh to the end of the nano file.
 
 ![Image couldn't load](images/Screenshot-Bandit23-2.png)
 

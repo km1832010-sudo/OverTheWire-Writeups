@@ -34,7 +34,7 @@ password: <Redacted>(obtain it from previous level)
 
 **md5sum command**:  This command creates a hexadecimal string that is 32 characters long and unique for each input. Syntax- md5sum string
 
-**cut command**: this command is used to take parts of a string based on a delimiter(deciding character/characters). cut delimiter (other flags) string
+**cut command**: This command is used to take parts of a string based on a delimiter(deciding character/characters). cut delimiter (other flags) string
 
 **cut -d flag**: This flag is used to set the delimiter. Syntax- cut -d delimiter.
 
