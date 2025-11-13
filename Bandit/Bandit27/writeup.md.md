@@ -32,9 +32,9 @@ password: <Redacted>(obtain it from previous level)
 
 **git**: Basically allows you to make projects with others and collaborate on them, but there is a lot more to learn. Check this [website](https://git-scm.com/) for more.
 
-**git command**: Allows you to interact with git files in many different ways.
+**git command**: Allows you to interact with git files in many different ways. 
 
-**git-clone configuration**: Allows you to clone a git repository.
+**git-clone configuration**: Allows you to clone a git repository. Syntax- git clone address
 
 #### Solving the level: 
 
@@ -49,11 +49,11 @@ We can see an error because we tried connecting to the default port. Let us spec
 ![Image couldn't load](images/Screenshot-Bandit27-3.png)
 ![Image couldn't load](images/Screenshot-Bandit27-4.png)
 
-Now we see another problem. Most other guides are outdated and don't cover this, but you cannot connect from localhost, so you must leave the overTheWire server and create a temporary directory on your own device. If you are worried about getting compromised(OverTheWire hacking your system), then you can use a VM, but I personally will be continuing on the Ubuntu application.
+Now we see another problem. Most other guides are outdated and don't cover this, but you cannot connect from localhost, so you must leave the OverTheWire server and create a temporary directory on your own device. If you are worried about getting compromised (OverTheWire hacking your system), then you can use a VM, but I personally will continue with the Ubuntu application.
 
 ![Image couldn't load](images/Screenshot-Bandit27-5.png)
 
-After downloading the repository, make your way through it and cat the readme.
+After downloading the repository, navigate through it and cat the README.
 
 ![Image couldn't load](images/Screenshot-Bandit27-6.png)
 
