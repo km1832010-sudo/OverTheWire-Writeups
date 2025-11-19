@@ -1,16 +1,16 @@
-\# OVERTHEWIRE-BANDIT Intro to Bandit:
+# OVERTHEWIRE-BANDIT Intro to Bandit:
 
 
 
-\#### Prerequisites:
+#### Prerequisites:
 
 
 
-Basic coding experience: Simple \[Python Course](https://www.youtube.com/watch?v=ix9cRaBkVe0), or any other coding language experience.
+Basic coding experience: Simple [Python Course](https://www.youtube.com/watch?v=ix9cRaBkVe0), or any other coding language experience.
 
 
 
-\#### README: 
+#### README: 
 
 
 
@@ -18,11 +18,11 @@ The Bandit OverTheWire is a series of CTF levels to help beginners learn how to 
 
 
 
-\[Official Website](https://overthewire.org/wargames/bandit/)
+[Official Website](https://overthewire.org/wargames/bandit/)
 
 
 
-\#### Important things about doing Bandit:
+#### Important things about doing Bandit:
 
 
 
@@ -34,17 +34,17 @@ Instead of using this write-up, you can:
 
 
 
-\*\*official website\*\*- Check the commands you may need.
+**official website**- Check the commands you may need.
 
 
 
-\*\*Use the man command\*\*- Simply putting this command followed by any other command will give you a page explaining what that command does 
+**Use the man command**- Simply putting this command followed by any other command will give you a page explaining what that command does 
 
 (man otherCommand)
 
 
 
-\*\*ChatGPT\*\*- not to give you a solution, just to check your syntax
+**ChatGPT**- not to give you a solution, just to check your syntax
 
 
 
@@ -54,5 +54,5 @@ You also should not spend too much time on a level. If your research isn't payin
 
 
 
-Next Level: \[Bandit-Into->0](../Bandit0/writeup.md.md)
+Next Level: [Bandit-Into->0](../Bandit0/writeup.md.md)
 
