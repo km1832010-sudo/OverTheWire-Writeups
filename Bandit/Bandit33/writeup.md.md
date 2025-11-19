@@ -1,4 +1,4 @@
-\# OVERTHEWIRE-BANDIT33->34?:
+# OVERTHEWIRE-BANDIT33->34?:
 
 
 
@@ -28,7 +28,7 @@ password: <Redacted>(obtain it from previous level)
 
 
 
-\#### Prerequisites:
+#### Prerequisites:
 
 
 
@@ -36,7 +36,7 @@ bandit0-32
 
 
 
-\#### Solving the level: 
+#### Solving the level: 
 
 
 
@@ -56,7 +56,7 @@ You finished bandit. Take a small break and celebrate. Next, you can do either K
 
 
 
-Previous level: \[Bandit32->33](../Bandit32/writeup.md.md)
+Previous level: [Bandit32->33](../Bandit32/writeup.md.md)
 
 
 
@@ -64,7 +64,7 @@ Previous level: \[Bandit32->33](../Bandit32/writeup.md.md)
 
 
 
-Back to Beginning: \[BanditStart](../Bandit34/writeup.md.md)
+Back to Beginning: [BanditStart](../Bandit34/writeup.md.md)
 
 
 
