@@ -66,8 +66,8 @@ Now we can cat /tmp at the address of $mytarget(we figured out what mytarget is 
 
 
 
-####Important note:
-
+#### Important note:
+ 
 
 
 You can also cat the password for bandit24 in this level. This is probably a "reward for the curious." I would still, as always, recommend doing the next level so that you can learn from it.
